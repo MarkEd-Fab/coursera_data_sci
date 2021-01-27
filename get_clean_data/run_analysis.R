@@ -77,4 +77,5 @@ df_summary <- df_all_sel %>%
 
 
 #Write to File
-write.table(x = df_summary, file = "./get_clean_data/Get_Clean_Final_Data.txt")
+write.table(x = df_summary, file = "./get_clean_data/Get_Clean_Final_Data.txt",
+            row.names = F)
