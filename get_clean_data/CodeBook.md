@@ -1,6 +1,6 @@
----
-title: "Getting and Cleaning Data Course Project Code Book"
----
+
+# Getting and Cleaning Data Course Project Code Book
+
 ### Background
 
 This document will run you through the steps performed to satisfy the following course requirements.  

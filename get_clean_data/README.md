@@ -1,6 +1,6 @@
----
-title: "Getting and Cleaning Data Course Peer-Graded Assignment Repo"
----
+
+# Getting and Cleaning Data Course Peer-Graded Assignment Repo
+
 
 <br/>
 This repository is created to satisfy the requirements for completing Coursera course  
